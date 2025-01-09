@@ -3,9 +3,10 @@
 Welcome to my portfolio! I am Luvuyo Mfincane, a passionate Data Analyst and aspiring Data Scientist with a strong background in statistical analysis, machine learning, and data visualization. This repository showcases my journey in the field of data science, highlighting various projects that demonstrate my ability to extract valuable insights from complex datasets and build predictive models.
 
 ## About Me
-I hold a Bachelor's degree in IT with a focus on business systems and a Postgraduate Diploma in Data Analytics. With experience as a Data Analyst, I am well-versed in various data analytics techniques, including supervised and unsupervised learning, regression, classification, and clustering. I am proficient in tools like Python, R, SQL, and popular machine learning libraries such as scikit-learn, pandas, matplotlib, and seaborn.
+I am an IT intern working under the Data Science department. I hold a Bachelor's degree in IT with a focus on business systems and am currently pursuing a Postgraduate Diploma in Data Analytics. Additionally, I have earned the IBM Data Science Professional Certificate, which has enhanced my skills in data analysis, machine learning, and data visualization.
 
-I aim to leverage my expertise to solve real-world business problems and contribute to data-driven decision-making.
+With a solid foundation in IT and business systems, I am expanding my expertise in data science, machine learning, and data analysis. My role as an intern allows me to apply my academic knowledge while gaining hands-on experience in the data science field. I am passionate about using data to solve complex problems and drive business insights, and I aim to continue developing my skills to contribute to data-driven decision-making and innovative solutions.
+
 
 ## Key Skills & Technologies:
 
@@ -33,10 +34,7 @@ Feel free to explore my projects, and I look forward to connecting with professi
 ## Contact:
 
 Email: [mfincanel@gmail.com.com]
-LinkedIn: [www.linkedin.com/in/
-luvuyomfincane
-Vanity URL name
-]
+LinkedIn: [www.linkedin.com/in/luvuyomfincane]
 
 Thank you for visiting my GitHub portfolio!
 
