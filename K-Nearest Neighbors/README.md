@@ -1,7 +1,7 @@
 ### **Project Overview: K-Nearest Neighbors**
 
 #### **Objectives**
-- Understand the K-Nearest Neighbors (KNN) algorithm.
+- Using the K-Nearest Neighbors (KNN) algorithm.
 - Use KNN to classify customer data based on predefined categories.
 - Optimize the K value to improve model accuracy.
 
