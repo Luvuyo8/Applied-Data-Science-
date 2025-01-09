@@ -1,4 +1,4 @@
-# lUVUYO MFINCANE'S DATA SCIENCE PORTFOLIO
+# LUVUYO MFINCANE'S DATA SCIENCE PORTFOLIO
 
 Welcome to my portfolio! I am Luvuyo Mfincane, an IT intern with a strong background in statistical analysis, machine learning, and data visualization. This repository showcases my journey in the field of data science, highlighting various projects that demonstrate my ability to extract valuable insights from complex datasets and build predictive models.
 
