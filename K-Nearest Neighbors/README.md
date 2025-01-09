@@ -31,45 +31,19 @@ The goal is to classify customers into these categories using demographic attrib
 
 1. **Data Normalization**
    - Standardize the feature set \( X \) to ensure uniform scaling of all attributes, a crucial step since KNN is distance-based.
-   ```python
-   from sklearn.preprocessing import StandardScaler
-   X = StandardScaler().fit_transform(X.astype(float))
-   ```
-
+  
 2. **Train-Test Split**
    - Split the dataset into training (80%) and testing (20%) sets for better evaluation of out-of-sample accuracy.
-   ```python
-   from sklearn.model_selection import train_test_split
-   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=4)
-   ```
-
+   
 3. **Model Training with KNN**
    - Train the KNN model with different values of \( K \) and evaluate the accuracy.
-   ```python
-   from sklearn.neighbors import KNeighborsClassifier
-   k = 4
-   neigh = KNeighborsClassifier(n_neighbors=k).fit(X_train, y_train)
-   ```
-
+  
 4. **Prediction and Accuracy Evaluation**
    - Predict customer categories for the test dataset and compare with actual labels.
-   ```python
-   from sklearn import metrics
-   yhat = neigh.predict(X_test)
-   print("Test set Accuracy: ", metrics.accuracy_score(y_test, yhat))
-   ```
-
+  
 5. **Optimizing \( K \)**
    - Evaluate the model's accuracy for varying values of \( K \) to find the optimal number of neighbors.
-   ```python
-   accuracies = []
-   for k in range(1, 10):
-       knn = KNeighborsClassifier(n_neighbors=k).fit(X_train, y_train)
-       accuracy = metrics.accuracy_score(y_test, knn.predict(X_test))
-       accuracies.append(accuracy)
-   print("Best accuracy:", max(accuracies), "with k =", accuracies.index(max(accuracies)) + 1)
-   ```
-
+   
 ---
 
 #### **Results**
