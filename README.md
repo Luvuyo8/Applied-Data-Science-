@@ -20,6 +20,7 @@ Statistical Analysis: Hypothesis testing, A/B testing, Time series analysis, Exp
 ## Projects Included:
 
 https://github.com/Luvuyo8/Data-Science-Projects/tree/02634ccbcf96cb2abceeae4f7764024ae0f44eb0/E-Commerce%20Product%20Delivery%20Prediction
+Exploratory Data Analysis (EDA) with SQL
 # Why Hire Me?
 
 With a combination of technical proficiency, hands-on project experience, and a passion for data-driven decision-making, I am well-positioned to add value to any data science/analysis team. I am a quick learner and thrive in dynamic environments where I can continue to grow my skills and contribute to business goals.
