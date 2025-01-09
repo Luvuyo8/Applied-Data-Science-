@@ -19,12 +19,7 @@ Statistical Analysis: Hypothesis testing, A/B testing, Time series analysis, Exp
 
 ## Projects Included:
 
-Breast Cancer Prediction (SVM): A machine learning model built using Support Vector Machines to predict whether a tumor is malignant or benign based on cell characteristics.
-Customer Segmentation for E-commerce: Implemented clustering techniques to segment customers based on purchasing behavior for targeted marketing strategies.
-Web Analytics for Website Optimization: Analyzed Google Analytics data to derive actionable insights for improving website performance and user experience.
-Linear Regression for Sales Prediction: A regression model built to predict sales based on historical data and various influencing factors.
-Classification and Clustering Projects: Including algorithms like Random Forest, Logistic Regression, and K-Means Clustering applied to real-world datasets.
-
+https://github.com/Luvuyo8/Data-Science-Projects/tree/02634ccbcf96cb2abceeae4f7764024ae0f44eb0/E-Commerce%20Product%20Delivery%20Prediction
 # Why Hire Me?
 
 With a combination of technical proficiency, hands-on project experience, and a passion for data-driven decision-making, I am well-positioned to add value to any data science/analysis team. I am a quick learner and thrive in dynamic environments where I can continue to grow my skills and contribute to business goals.
