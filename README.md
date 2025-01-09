@@ -1,6 +1,6 @@
 # lUVUYO MFINCANE Data Science Portfolio
 
-Welcome to my portfolio! I am Luvuyo Mfincane, a passionate Data Analyst and aspiring Data Scientist with a strong background in statistical analysis, machine learning, and data visualization. This repository showcases my journey in the field of data science, highlighting various projects that demonstrate my ability to extract valuable insights from complex datasets and build predictive models.
+Welcome to my portfolio! I am Luvuyo Mfincane, a IT intern with a strong background in statistical analysis, machine learning, and data visualization. This repository showcases my journey in the field of data science, highlighting various projects that demonstrate my ability to extract valuable insights from complex datasets and build predictive models.
 
 ## About Me
 I am an IT intern working under the Data Science department. I hold a Bachelor's degree in IT with a focus on business systems and am currently pursuing a Postgraduate Diploma in Data Analytics. Additionally, I have earned the IBM Data Science Professional Certificate, which has enhanced my skills in data analysis, machine learning, and data visualization.
